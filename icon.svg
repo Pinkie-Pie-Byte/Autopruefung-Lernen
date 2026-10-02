@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="100" fill="#dc2626"/>
+  <!-- Swiss Cross -->
+  <rect x="216" y="80" width="80" height="240" rx="10" fill="#ffffff"/>
+  <rect x="136" y="160" width="240" height="80" rx="10" fill="#ffffff"/>
+  <!-- Car Silhouette / Badge -->
+  <g transform="translate(136, 310) scale(0.94)">
+    <rect x="0" y="0" width="256" height="110" rx="24" fill="#ffffff" opacity="0.96"/>
+    <!-- Car body in primary red -->
+    <path d="M 40 75 L 45 55 Q 52 38 75 35 L 180 35 Q 200 38 210 55 L 216 75 Z" fill="#dc2626"/>
+    <!-- Windows -->
+    <path d="M 75 42 L 120 42 L 120 58 L 56 58 Z" fill="#ffffff"/>
+    <path d="M 132 42 L 178 42 L 198 58 L 132 58 Z" fill="#ffffff"/>
+    <!-- Wheels -->
+    <circle cx="68" cy="80" r="16" fill="#0f172a"/>
+    <circle cx="68" cy="80" r="7" fill="#ffffff"/>
+    <circle cx="188" cy="80" r="16" fill="#0f172a"/>
+    <circle cx="188" cy="80" r="7" fill="#ffffff"/>
+  </g>
+</svg>

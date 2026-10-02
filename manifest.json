@@ -1,0 +1,19 @@
+{
+  "name": "Theorieprüfung CH – Linda",
+  "short_name": "Theorie CH",
+  "description": "Schweizer Auto-Theorieprüfung Übungs-App im asa-Format",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f1f5f9",
+  "theme_color": "#dc2626",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
